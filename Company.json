@@ -2,11 +2,11 @@
     {
         "name" : "Rick Embrado",
         "age" : 23,
-        "hobbies" : ["Basketbaall", "Work Out"],
+        "hobbies" : ["Basketbaall", "Work Out"]
     },
      {
     "name" : "Evan Embrado",
     "age" : 21,
-    "hobbies" : ["Reading", "Writing"],
+    "hobbies" : ["Reading", "Writing"]
      }
 ]

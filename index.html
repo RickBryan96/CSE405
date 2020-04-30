@@ -7,21 +7,21 @@
         <script> type="text/javascript"
             let companies = 
             
-            [
+            `[
     {
         "name" : "Rick Embrado",
         "age" : 23,
-        "hobbies" : ["Basketbaall", "Work Out"],
+        "hobbies" : ["Basketbaall", "Work Out"]
     },
      {
     "name" : "Evan Embrado",
     "age" : 21,
-    "hobbies" : ["Reading", "Writing"],
+    "hobbies" : ["Reading", "Writing"]
      }
-]
+]`
             
 
-            console.log(companies)
+            console.log(JSON.parse(companies)[1].hobbies)
         </script>
     </body>
 </html>
